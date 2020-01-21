@@ -6,3 +6,5 @@
 ```
 python3.6 keras_fashion_mnist.py
 ```
+
+![dataset](fashion-mnist-sprite.png)
